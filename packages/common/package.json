@@ -1,0 +1,16 @@
+{
+  "name": "@aozora/common",
+  "version": "1.0.0",
+  "description": "Aozora common package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Taufiqurrahman",
+  "license": "ISC",
+  "exports": {
+    "types": "./src/*.d.ts",
+    "require": "./src/*.js",
+    "import": "./src/*.js"
+  }
+}

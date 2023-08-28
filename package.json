@@ -1,0 +1,14 @@
+{
+  "name": "@aozora/main",
+  "version": "1.0.0",
+  "description": "Aozora main repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "aozora"
+  ],
+  "author": "Muhammad Taufiqurrahman",
+  "license": "ISC"
+}

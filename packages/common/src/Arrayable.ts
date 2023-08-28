@@ -1,0 +1,3 @@
+interface Arrayable {
+  toArray(): any[]
+}
